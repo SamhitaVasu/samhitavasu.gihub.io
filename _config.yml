@@ -1,0 +1,12 @@
+remote_theme: thelehhman/plainwhite-jekyll
+plainwhite:
+  name: Samhita Vasu
+  tagline: Aspiring Physician/Researcher whose interests include Cognition, Neurobiology, Mental Health, Neurodegenerative Diseases, Wearable Health Technology, Consciousness, Artificial General Intelligence, and Safe AI
+  date_format: "%b %-d, %Y"
+  sitemap: true
+
+  social_links:
+    github:  SamhitaVasu
+    linkedIn: in/samhita-vasu-0abb92127 # format: locale/username
+    instagram: samhita.vasu
+    twitter: SamhitaTweets
